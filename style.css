@@ -28,6 +28,10 @@ footer h2{
   background-color: #e2edff;
 }
 
+#projects-web-programming img{
+  height: 240px;
+}
+
 .card-body{
   background-color: #ffffff;
 }
