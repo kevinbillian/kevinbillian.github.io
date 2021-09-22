@@ -1,0 +1,33 @@
+body{
+  font-family: Lato, sans-serif;
+}
+
+
+section {
+  padding-top: 0rem;
+}
+
+a{
+  color: #ffffff;
+}
+
+h1, h2{
+  color: #233580;
+}
+
+footer h2{
+  color: #ffffff;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+
+#projects {
+  background-color: #e2edff;
+}
+
+.card-body{
+  background-color: #ffffff;
+}
